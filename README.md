@@ -178,7 +178,7 @@ gcc ./main.s task.s -o program#2.exe
 * Локальные переменные в главной функции [main.c](https://github.com/IrinaPechik/Home_Work-1/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%204/main.c):
 
 ```
-int A[max_size];
+    int A[max_size];
     int B[max_size];
     int size_a, size_b;
     FILE *input, *output;

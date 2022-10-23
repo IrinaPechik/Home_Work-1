@@ -432,7 +432,9 @@ int k, j;
 ---
 
 * Добавлены замеры
+
 Главная функция: [main.с](https://github.com/IrinaPechik/Home_Work-1/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%208/main.c)
+
 Функция для создания массива В: [task.с](https://github.com/IrinaPechik/Home_Work-1/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BD%D0%B0%208/task.c)
 
 
